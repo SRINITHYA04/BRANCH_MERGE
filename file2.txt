@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hai this also master code..
  this is the second line git
+=======
+this is also alien's world
+>>>>>>> alien

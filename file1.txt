@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello this master code..
+=======
+hello this ia alien's world
+>>>>>>> alien
