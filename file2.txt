@@ -3,5 +3,5 @@ hai this also master code..
  this is the second line git
 =======
 this is also alien's world
-also the fored user wants to mae changes i the code.
+also the forked user wants to make changes in the code.
 >>>>>>> alien
